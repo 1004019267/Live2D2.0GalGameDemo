@@ -9,4 +9,5 @@ these all can let her heart level up ,but if you money or heart level was very l
 emmmmm go luck guys!
 I think it's easy to get the girl heart,isn't it?
 maybe you can touch the girl or hit the bad boy escape
+oh i forget something this package can play on Android 
 Thanks for play my game 
