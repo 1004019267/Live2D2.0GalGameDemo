@@ -1,0 +1,31 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "BadBoy.moc",
+  "textures": [
+    "texture_00.png"
+  ],
+  
+  "motions": {
+    "idle": [
+      {
+        "file": "motions/c000_01_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle_facial_nokey": [
+      {
+        "file": "motions/c000_01_idle_facial_nokey.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle_stay": [
+      {
+        "file": "motions/c000_01_idle_stay.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}
