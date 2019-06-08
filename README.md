@@ -1,7 +1,7 @@
 # Live2D2.0GalGameDemo
 the GalGame  demo with live2D 2.0 SDK with unity2018.3.9 Android
 
-it was the Janpanese GalGame with live2D
+it was the Janpanese GalGame with live2D/n
 you should get the girl heart before the day was zero,or she will going abroad
 you can speak with her,and work to get money.
 the money can go to the date with her
